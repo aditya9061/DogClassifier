@@ -1,0 +1,1 @@
+ web : gunicorn prediction_final.py:app.py
